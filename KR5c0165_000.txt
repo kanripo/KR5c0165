@@ -1,0 +1,7 @@
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-29 00:48:51.458334
+#+TITLE: 圖經衍義本草
+#+PROPERTY: DZID  DZ0769
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，17—238 四十七卷 洞神部靈圖類
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS HFL
